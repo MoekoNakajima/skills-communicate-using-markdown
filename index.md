@@ -8,3 +8,9 @@ STEP2:
 STEP3:
 ``` javascript 
 var myVar = "Hello, world!";
+「」
+```
+STEP4:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
